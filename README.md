@@ -1,25 +1,44 @@
-# 👋 Hi, I'm Wondu Biru Tupasha
+## Wondu Biru Tupasha
 
-🎓 Computer Engineering student  
-🚀 Passionate about AI, Deep Learning & Building Future Tech  
-📍 From Sidama | Studying in UAE | Future PhD in Germany?
+Computer Engineering undergraduate with a strong interest in **machine learning, computer vision, and optimization**.  
+Focused on building **research-oriented AI systems** with an emphasis on understanding model behavior, data, and limitations.
 
-## 🧠 What I Know
-- 💻 Languages: Python, Java, C++, MATLAB
-- 🤖 Fields: Machine Learning, Deep Learning, Computer Vision
-- 🧰 Tools: Firebase, TensorFlow, Angular, Git
+Currently preparing for **undergraduate research internships** and long-term graduate study in AI.
 
-## 💼 Projects
-### 🔐 MATLAB Banking System
-Simulated a secure login system with user creation and authentication.
+---
 
-### 🎒 Take My Stuff (Firebase + Web App)
-A donation app where users list items they no longer need and others can claim them.
+### Research Interests
+- Computer Vision (human-centric visual understanding)
+- Deep Learning and Representation Learning
+- Efficient and Edge-Aware AI Systems
+- Optimization and Training Dynamics
 
-### 📱 Child Screen Classifier
-CNN-based image classifier to detect phone/laptop use among children from video frames.
+---
 
-## 📫 Connect With Me
-- 📧 wondutupasha@email.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🧠 [Kaggle](https://kaggle.com/yourprofile)
+### Current Focus
+- PyTorch-based experimentation
+- Action recognition and interaction understanding from video
+- Building reproducible ML pipelines
+- Evaluation beyond accuracy (precision, recall, ROC/AUC)
+
+---
+
+### Selected Work
+- **Screen Interaction Action Recognition**  
+  Vision-based system for detecting screen interaction using video data, focusing on modular design, evaluation rigor, and deployment constraints.
+
+(Additional projects available in repositories.)
+
+---
+
+### Tools & Technologies
+- Languages: Python, Java, C++
+- Frameworks: PyTorch, TensorFlow
+- Libraries: NumPy, OpenCV
+- ML Workflow: Git, experiment configuration, reproducible training
+
+---
+
+### Contact
+- Email: wondutupasha@email.com  
+- LinkedIn: https://linkedin.com/in/yourprofile
