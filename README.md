@@ -41,4 +41,4 @@ Currently preparing for **undergraduate research internships** and long-term gra
 
 ### Contact
 - Email: wondutupasha@email.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/wondu-biru
